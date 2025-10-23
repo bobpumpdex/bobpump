@@ -1,4 +1,4 @@
-# 🥞 Pancake Frontend
+# 🥞 Bobpump Frontend
 
 <p align="center">
   <a href="https://bobpump.com">
