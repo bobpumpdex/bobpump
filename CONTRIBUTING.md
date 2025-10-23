@@ -1,4 +1,5 @@
 # Contributing to the Bobpump ecosystem 🥞
+BNB: 0xB1DCCE3aB05Ce07466E4d8805E2221231dc30c32
 
 Thanks for taking the time to contribute !
 
